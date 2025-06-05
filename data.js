@@ -1,0 +1,122 @@
+let products = [
+    {
+        id: 1,
+        name: 'Brooklyn Nine-Nine: 99th Precinct',
+        t_type: 'Oversized T-Shirts',
+        price: 899,
+        image: "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1747289308_4408641.jpg?format=webp&w=480&dpr=1.5",
+        ratings: {
+            rate: 4.5,
+            review: '2k',
+        },
+        off: 30,
+    },
+    {
+        id: 2,
+        name: 'House Of The Dragon: Fire & Blood',
+        t_type: 'Oversized T-Shirts',
+        price: 1400,
+        image: "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1748436326_7000739.jpg?format=webp&w=480&dpr=1.5",
+        ratings: {
+            rate: 4.2,
+            review: '3k',
+        },
+        off: 20,
+    },
+    {
+        id: 3,
+        name: 'Harry Potter: Quidditch Captain',
+        t_type: 'Oversized T-Shirts',
+        price: 2300,
+        image: "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1746820497_2101224.jpg?format=webp&w=480&dpr=1.5",
+        ratings: {
+            rate: 2.5,
+            review: '1k',
+        },
+        off: 50,
+    },
+    {
+        id: 4,
+        name: 'TSS Originals: Stamp',
+        t_type: 'Oversized T-Shirts',
+        price: 1200,
+        image: "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1746819971_7084394.jpg?format=webp&w=480&dpr=1.5",
+        ratings: {
+            rate: 3.5,
+            review: '4k',
+        },
+        off: 70,
+    },
+    {
+        id: 5,
+        name: 'Forest Berry',
+        t_type: 'Oversized T-Shirts',
+        price: 2300,
+        image: "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1715345676_3695805.jpg?format=webp&w=480&dpr=1.5",
+        ratings: {
+            rate: 4.5,
+            review: '8k',
+        },
+        off: 50,
+    },
+    {
+        id: 6,
+        name: 'TSS Originals: Macau Blue',
+        t_type: 'Oversized T-Shirts',
+        price: 3000,
+        image: "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1748537383_9586551.jpg?format=webp&w=480&dpr=1.5",
+        ratings: {
+            rate: 2.5,
+            review: '3k',
+        },
+        off: 90,
+    },
+    {
+        id: 7,
+        name: "TSS Originals: Let's Sail",
+        t_type: 'Oversized T-Shirts',
+        price: 1250,
+        image: "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1729952911_4113341.jpg?format=webp&w=480&dpr=1.5",
+        ratings: {
+            rate: 4.2,
+            review: '4k',
+        },
+        off: 20,
+    },
+    {
+        id: 8,
+        name: 'Relaxed T-Shirt: Work Life Balance',
+        t_type: 'Oversized T-Shirts',
+        price: 4999,
+        image: "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1741714110_2536232.jpg?format=webp&w=480&dpr=1.5",
+        ratings: {
+            rate: 4.9,
+            review: '1k',
+        },
+        off: 80,
+    },
+    {
+        id: 9,
+        name: 'Looney Tunes: Oh No!',
+        t_type: 'Oversized T-Shirts',
+        price: 3899,
+        image: "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1732794752_8920501.jpg?format=webp&w=480&dpr=1.5",
+        ratings: {
+            rate: 3.7,
+            review: '8k',
+        },
+        off: 120,
+    },
+    {
+        id: 10,
+        name: 'TSS Originals: Soul Spirit',
+        t_type: 'Oversized T-Shirts',
+        price: 1500,
+        image: "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1725101192_4002900.jpg?format=webp&w=480&dpr=1.5",
+        ratings: {
+            rate: 4.2,
+            review: '3k',
+        },
+        off: 40,
+    }
+]
